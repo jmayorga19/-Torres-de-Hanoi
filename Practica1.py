@@ -46,5 +46,4 @@ while True:
     elif opcionMenu=="4":
         break
     else:
-        print ("")
-        input("No has ingresado ninguna opción correcta, pulsa cualquier tecla para regresar ")
+        input("\nNo has ingresado ninguna opción correcta, pulsa cualquier tecla para regresar ")
